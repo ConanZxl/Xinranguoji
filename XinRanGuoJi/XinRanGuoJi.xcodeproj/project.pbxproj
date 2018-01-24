@@ -16,6 +16,7 @@
 		74D70C922018207900B025F0 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 74D70C912018207900B025F0 /* main.m */; };
 		74F0A09D201822D40088982A /* GGViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 74F0A09B201822D40088982A /* GGViewController.m */; };
 		74F0A09E201822D40088982A /* GGViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 74F0A09C201822D40088982A /* GGViewController.xib */; };
+		74F0A0A1201823510088982A /* MMViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 74F0A0A0201823510088982A /* MMViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +34,8 @@
 		74F0A09A201822D40088982A /* GGViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GGViewController.h; sourceTree = "<group>"; };
 		74F0A09B201822D40088982A /* GGViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GGViewController.m; sourceTree = "<group>"; };
 		74F0A09C201822D40088982A /* GGViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = GGViewController.xib; sourceTree = "<group>"; };
+		74F0A09F201823510088982A /* MMViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MMViewController.h; sourceTree = "<group>"; };
+		74F0A0A0201823510088982A /* MMViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MMViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +81,8 @@
 				74F0A09A201822D40088982A /* GGViewController.h */,
 				74F0A09B201822D40088982A /* GGViewController.m */,
 				74F0A09C201822D40088982A /* GGViewController.xib */,
+				74F0A09F201823510088982A /* MMViewController.h */,
+				74F0A0A0201823510088982A /* MMViewController.m */,
 			);
 			path = XinRanGuoJi;
 			sourceTree = "<group>";
@@ -158,6 +163,7 @@
 				74D70C812018207900B025F0 /* AppDelegate.m in Sources */,
 				74F0A09D201822D40088982A /* GGViewController.m in Sources */,
 				74D70C922018207900B025F0 /* main.m in Sources */,
+				74F0A0A1201823510088982A /* MMViewController.m in Sources */,
 				74D70C8A2018207900B025F0 /* XinRanGuoJi.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
